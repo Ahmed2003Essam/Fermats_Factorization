@@ -6,4 +6,4 @@ Fermat's Factorization algorithm:
 Input: a positive odd number n 
 Output: a factor of n, or message stating that n is a prime. 
 
-Step1: Begin with x = $\lfloor \sqrt{n}\rfloor
+Step1: Begin with x = $\lfloor \sqrt{n}\rfloor$
